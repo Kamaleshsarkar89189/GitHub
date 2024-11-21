@@ -1,0 +1,4 @@
+Basic Command :
+    git branch branch-name (To create a branch)
+    git checkout branch-name (To switch the newly created branch)
+    git checkout -b new-branch-name (To create a new branch and immediately move to it)
