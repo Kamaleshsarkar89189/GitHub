@@ -1,0 +1,5 @@
+Git is a tool, you use to track changes whereas GitHub is a cloud platform that allows you to store your git repositories online and collaborate with others.
+
+There are two types of repository 
+    1. Local repository: That exists on your own machine.
+    2. Remote Repository: This is a version of a project stored on a server like GitHub, GitLab or Git Bid Bucket.
