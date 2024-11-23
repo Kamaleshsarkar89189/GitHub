@@ -2,3 +2,21 @@ Basic Command :
     git branch branch-name (To create a branch)
     git checkout branch-name (To switch the newly created branch)
     git checkout -b new-branch-name (To create a new branch and immediately move to it)
+
+    After merging the kamalesh branch to main branch we have to pull it in the main branch to see this
+    
+    git pull  
+    or
+    git pull origin main
+
+    Overall review 
+
+    1. Clone the repository
+    2. Create a new branch from the main or aother branch
+    3. Make your changes
+    4. Push the branch to the remote repository
+    5. Open a Pull Request
+    6. Merge the changes
+    7. Pull the merged changes into your local main branch
+    8. Repeat from step 2
+    

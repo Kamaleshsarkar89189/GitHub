@@ -1,0 +1,27 @@
+Suppose there are 2 or more branches, all branch edit the same file or same line of the code then whenever you try to merge it into the main branch it can't merge it autumatially you have to resolve it manually.
+
+Example
+
+*git branch dev-kamalesh*
+*git checkout -b kisan* (it create and directy switch to it)
+
+After adding or pushing 
+
+Another branch switching
+
+*git checkout dev-kamalesh*
+
+Make changes , add, commit and push to the branch
+
+How to resolve the problem
+
+*git checkout main*
+*git pull*
+
+Which branch you want to merge
+
+git checkout kisan
+git merge main (merge kisan branch into main branch)
+
+
+
