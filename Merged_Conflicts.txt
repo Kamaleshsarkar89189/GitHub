@@ -3,7 +3,7 @@ Suppose there are 2 or more branches, all branch edit the same file or same line
 Example
 
 *git branch dev-kamalesh*
-*git checkout -b kisan* (it create and directy switch to it)
+*git checkout -b kisan* (it create and directly switch to it)
 
 After adding or pushing 
 
